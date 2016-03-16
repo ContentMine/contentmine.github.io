@@ -1,0 +1,2 @@
+# CMInstall
+ContentMine installation instructions
