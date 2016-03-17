@@ -4,7 +4,7 @@ title: Windows Installation
 ---
 # Windows installation procedure
 ## getpapers
-1. Download Node.Js from [https://nodejs.org/en/download/].
+1. Download Node.Js from [here](https://nodejs.org/en/download/).
 1. Open the windows command prompt by pressing Win-R and typing ```cmd```
 1. type npm install --global getpapers
 
