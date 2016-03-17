@@ -9,12 +9,12 @@ title: Windows Installation
 1. type npm install --global getpapers
 
 ## norma
-{% include check-java-generic %}
+{% include check-java-generic.md %}
 There are binary installers available from these sources
 {% include norma-from-zip.md %}
 
 ## ami
-{% include check-java-generic %}
+{% include check-java-generic.md %}
 There are binary installers available from these sources
 {% include ami-from-zip.md %}
 

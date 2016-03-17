@@ -15,18 +15,18 @@ Install the .deb from [github](https://github.com/ContentMine/norma/releases) if
 We are in the process of preparing rpms.
 
 You can also install manually using a zip file:
-{% include norma-from-zip %}
+{% include norma-from-zip.md %}
 
 # Linux Operating Procedure
 ## getpapers
 {% include run-getpapers.md %}
 
 ## norma
-{% include check-java-generic %}
+{% include check-java-generic.md %}
 You could either download and install packages on their website or prefereably use your package manager. For example `apt-get` or `yum` etc..
 {% include run-norma.md %}
 
 ## ami
-{% include check-java-generic %}
+{% include check-java-generic.md %}
 You could either download and install packages on their website or prefereably use your package manager. For example `apt-get` or `yum` etc..
 {% include run-ami.md %}

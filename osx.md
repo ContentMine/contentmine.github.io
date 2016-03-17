@@ -9,18 +9,18 @@ title: Mac OS X Installation
 1. run `npm install --global getpapers` either as root or with sudo enabled
 
 ## norma
-{% include norma-from-zip %}
+{% include norma-from-zip.md %}
 
 # Mac OS X Operating Procedure
 ## getpapers
 {% include run-getpapers.md %}
 
 ## norma
-{% include check-java-generic %}
-{% include mac-install-java %}
+{% include check-java-generic.md %}
+{% include mac-install-java.md %}
 {% include run-norma.md %}
 
 ## ami
-{% include check-java-generic %}
-{% include mac-install-java %}
+{% include check-java-generic.md %}
+{% include mac-install-java.md %}
 {% include run-ami.md %}
