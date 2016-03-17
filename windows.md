@@ -20,6 +20,7 @@ There are binary installers available from these sources
 {% include ami-from-zip.md %}
 
 ---
+
 # Windows Operating Procedure
 
 ## getpapers

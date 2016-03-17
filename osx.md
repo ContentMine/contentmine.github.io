@@ -13,6 +13,7 @@ title: Mac OS X Installation
 {% include norma-from-zip.md %}
 
 ---
+
 # Mac OS X Operating Procedure
 
 ## getpapers

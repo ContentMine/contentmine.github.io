@@ -20,6 +20,7 @@ You can also install manually using a zip file:
 {% include norma-from-zip.md %}
 
 ---
+
 # Linux Operating Procedure
 
 ## getpapers
@@ -27,10 +28,10 @@ You can also install manually using a zip file:
 
 ## norma
 {% include check-java-generic.md %}
-You could either download and install packages on their website or prefereably use your package manager. For example `apt-get` or `yum` etc..
+You could either download and install packages on their website or preferably use your package manager. For example `apt-get` or `yum` etc..
 {% include run-norma.md %}
 
 ## ami
 {% include check-java-generic.md %}
-You could either download and install packages on their website or prefereably use your package manager. For example `apt-get` or `yum` etc..
+You could either download and install packages on their website or preferably use your package manager. For example `apt-get` or `yum` etc..
 {% include run-ami.md %}
