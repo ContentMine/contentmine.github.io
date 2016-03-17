@@ -1,4 +1,4 @@
 markdown: kramdown
 kramdown:
     input: GFM
-encoding: ASCII-8BIT
+encoding: utf-8
