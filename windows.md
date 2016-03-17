@@ -22,3 +22,4 @@ title: Windows Installation
 {% include run-norma.md %}
 
 ## ami
+{% include run-ami.md %}
