@@ -1,6 +1,6 @@
 ---
-layout:default
-title:Install Instructions
+layout: default
+title: Install Instructions
 ---
 
 Windows | Linux | MacOSX
