@@ -3,6 +3,7 @@ layout: default
 title: Mac OS X Installation
 ---
 # Mac OS X Installation Procedure
+
 ## getpapers
 1. Download npm and node using brew. See: [brew](http://brew.sh/)
     `brew install node`
@@ -13,6 +14,7 @@ title: Mac OS X Installation
 
 ---
 # Mac OS X Operating Procedure
+
 ## getpapers
 {% include run-getpapers.md %}
 

@@ -3,6 +3,7 @@ layout: default
 title: Windows Installation
 ---
 # Windows Installation Procedure
+
 ## getpapers
 1. Download Node.Js from [here](https://nodejs.org/en/download/).
 1. Open the windows command prompt by pressing Win-R and typing ```cmd```
@@ -20,6 +21,7 @@ There are binary installers available from these sources
 
 ---
 # Windows Operating Procedure
+
 ## getpapers
 {% include run-getpapers.md %}
 

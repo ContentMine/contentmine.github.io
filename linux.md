@@ -3,11 +3,13 @@ layout: default
 title: Linux Installation
 ---
 # Linux Installation Procedure
+
 ## getpapers
 1. Download npm and node using your package manager.
 1. run `npm install --global getpapers` either as root or with sudo enabled
 
 ## norma
+
 ### With .deb
 Install the .deb from [github](https://github.com/ContentMine/norma/releases) if on Debian or Ubuntu.
 
@@ -19,6 +21,7 @@ You can also install manually using a zip file:
 
 ---
 # Linux Operating Procedure
+
 ## getpapers
 {% include run-getpapers.md %}
 
