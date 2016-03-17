@@ -17,6 +17,7 @@ We are in the process of preparing rpms.
 You can also install manually using a zip file:
 {% include norma-from-zip.md %}
 
+---
 # Linux Operating Procedure
 ## getpapers
 {% include run-getpapers.md %}
