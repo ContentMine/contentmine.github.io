@@ -12,6 +12,9 @@ title: Mac OS X Installation
 ## norma
 {% include norma-from-zip.md %}
 
+## ami
+{% include ami-from-zip.md %}
+
 ---
 
 # Mac OS X Operating Procedure
