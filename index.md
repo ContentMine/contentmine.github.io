@@ -20,13 +20,13 @@ Peter Murray-Rust leads ContentMine as a Shuttleworth Foundation Fellow.
 
 ## What software is described by this site?
 
-###getpapers
+### getpapers
 A paper acquisition tool written in node that can automatically download all open papers matching a given query from popular literature repositories like EuropePMC.
 
-###norma
+### norma
 A tool to standardise the wide variety of papers available into a common format: scholarly html.
 
-###ami
+### ami
 A tool that extracts facts from scholarly HTML with a variety of plugins for different knowledge specific areas.
 
 ---
