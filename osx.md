@@ -23,11 +23,13 @@ title: Mac OS X Installation
 {% include run-getpapers.md %}
 
 ## norma
+
 {% include check-java-generic.md %}
 {% include mac-install-java.md %}
 {% include run-norma.md %}
 
 ## ami
+
 {% include check-java-generic.md %}
 {% include mac-install-java.md %}
 {% include run-ami.md %}

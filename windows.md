@@ -10,27 +10,36 @@ title: Windows Installation
 1. type npm install --global getpapers
 
 ## norma
+
 {% include check-java-generic.md %}
 
+### Using chocolatey
 The preferred installation method is using chocolatey:
 
 {% include install-chocolatey.md %}
 
 ```choco install norma -s  https://www.myget.org/F/contentmine/api/v2 -y```
 
+### Alternate method from zip
+
 There are binary installers available from these sources
 {% include norma-from-zip.md %}
 
 ## ami
 
+{% include check-java-generic.md %}
+
+### Using chocolatey
 The preferred installation method is using chocolatey:
 
 {% include install-chocolatey.md %}
 
 ```choco install ami -s  https://www.myget.org/F/contentmine/api/v2 -y```
 
-{% include check-java-generic.md %}
+### Alternate method from zip
+
 There are binary installers available from these sources
+
 {% include ami-from-zip.md %}
 
 ---
