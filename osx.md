@@ -5,9 +5,22 @@ title: Mac OS X Installation
 # Mac OS X Installation Procedure
 
 ## getpapers
-1. Download npm and node using brew. See: [brew](http://brew.sh/)
+
+### Installing Node
+
+{% include node-from-nvm.md %}
+
+To quote the NVM instructions:
+
+> On OSX, if you get `nvm: command not found` after running the install script, your system may not have a [.bash_profile file] where the command is set up. Simple create one with touch ~/.bash_profile and run the install script again.
+
+#### Alternative method using brew
+Download npm and node using brew. See: [brew](http://brew.sh/)
     `brew install node`
-1. run `npm install --global getpapers` either as root or with sudo enabled
+
+### Install Getpapers
+
+run `npm install getpapers` either as root or with sudo enabled
 
 ## norma
 {% include norma-from-zip.md %}
