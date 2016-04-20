@@ -20,6 +20,10 @@ The preferred installation method is using chocolatey:
 
 ```choco install norma -s  https://www.myget.org/F/contentmine/api/v2 -y```
 
+To update to a new version run:
+
+```choco upgrade norma -s  https://www.myget.org/F/contentmine/api/v2 -y```
+
 ### Alternate method from zip
 
 There are binary installers available from these sources
@@ -35,6 +39,9 @@ The preferred installation method is using chocolatey:
 {% include install-chocolatey.md %}
 
 ```choco install ami -s  https://www.myget.org/F/contentmine/api/v2 -y```
+
+To update to a new version run:
+```choco upgrade ami -s  https://www.myget.org/F/contentmine/api/v2 -y```
 
 ### Alternate method from zip
 
