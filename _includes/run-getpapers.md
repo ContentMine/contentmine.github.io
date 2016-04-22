@@ -9,4 +9,4 @@ You might get back many thousands of results, you can cancel with Ctrl-C.
 
 If you look inside the folder you'll see there are many more folders; each of which contain a fulltext.xml file which is the contents of that paper.
 
-For example if you run `getpapers -q -aardvark  -o aardvark -x` You'll get ca. 110 XML files.
+For example if you run `getpapers -q aardvark  -o aardvark -x` You'll get ca. 110 XML files.
